@@ -31,3 +31,14 @@ A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Deb
 A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.exe
 A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.xml
 A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.pdb
+A:\filetobinarystring\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.exe.config
+A:\filetobinarystring\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.exe
+A:\filetobinarystring\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.pdb
+A:\filetobinarystring\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.xml
+A:\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.vbprojAssemblyReference.cache
+A:\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.Resources.resources
+A:\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.vbproj.GenerateResource.cache
+A:\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.vbproj.CoreCompileInputs.cache
+A:\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.exe
+A:\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.xml
+A:\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.pdb
