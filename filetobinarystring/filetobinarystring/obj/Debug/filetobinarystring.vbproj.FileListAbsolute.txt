@@ -1,0 +1,33 @@
+V:\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.exe.config
+V:\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.exe
+V:\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.pdb
+V:\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.xml
+V:\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.vbprojAssemblyReference.cache
+V:\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.Resources.resources
+V:\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.vbproj.GenerateResource.cache
+V:\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.vbproj.CoreCompileInputs.cache
+V:\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.exe
+V:\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.xml
+V:\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.pdb
+H:\cs\COURSEWORK\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.exe.config
+H:\cs\COURSEWORK\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.exe
+H:\cs\COURSEWORK\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.pdb
+H:\cs\COURSEWORK\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.xml
+H:\cs\COURSEWORK\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.vbprojAssemblyReference.cache
+H:\cs\COURSEWORK\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.Resources.resources
+H:\cs\COURSEWORK\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.vbproj.GenerateResource.cache
+H:\cs\COURSEWORK\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.vbproj.CoreCompileInputs.cache
+H:\cs\COURSEWORK\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.exe
+H:\cs\COURSEWORK\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.xml
+H:\cs\COURSEWORK\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.pdb
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.exe.config
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.exe
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.pdb
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\bin\Debug\filetobinarystring.xml
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.vbprojAssemblyReference.cache
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.Resources.resources
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.vbproj.GenerateResource.cache
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.vbproj.CoreCompileInputs.cache
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.exe
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.xml
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Debug\filetobinarystring.pdb

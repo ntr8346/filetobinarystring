@@ -1,0 +1,11 @@
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\bin\Release\filetobinarystring.exe.config
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\bin\Release\filetobinarystring.exe
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\bin\Release\filetobinarystring.pdb
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\bin\Release\filetobinarystring.xml
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Release\filetobinarystring.vbprojAssemblyReference.cache
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Release\filetobinarystring.Resources.resources
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Release\filetobinarystring.vbproj.GenerateResource.cache
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Release\filetobinarystring.vbproj.CoreCompileInputs.cache
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Release\filetobinarystring.exe
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Release\filetobinarystring.xml
+A:\github stuff\filetobinarystring\filetobinarystring\filetobinarystring\obj\Release\filetobinarystring.pdb
